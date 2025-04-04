@@ -1,0 +1,10 @@
+## [2025-04-03]
+
+- Set up project structure and configured VS Code with Git.
+- Implemented HTML text extraction with BeautifulSoup.
+- Encountered encoding issues with HTML file; planned to update code to use Windows-1252.
+
+**Next Steps:**  
+- Test the simple_chunking function.
+- Validate the chunks and perform additional clean if possible
+- Commit and push changes to GitHub.
