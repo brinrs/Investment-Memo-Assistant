@@ -16,6 +16,8 @@ This project aims to build an **Investment Memo Assistant** that leverages advan
 
 By developing this system, I aim to demonstrate how cutting-edge AI technologies can be applied to real-world financial data processing challenges and create a scalable prototype platform for future applications in finance.
 
+## Project Structure
+
 
   
 
