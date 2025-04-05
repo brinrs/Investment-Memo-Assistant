@@ -8,3 +8,8 @@
 - Test the simple_chunking function.
 - Validate the chunks and perform additional clean if possible
 - Commit and push changes to GitHub.
+
+## [2025-04-04]
+
+- Improve text preprocessing by adding regex-based cleaning 
+- 
