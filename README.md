@@ -17,7 +17,21 @@ This project aims to build an **Investment Memo Assistant** that leverages advan
 By developing this system, I aim to demonstrate how cutting-edge AI technologies can be applied to real-world financial data processing challenges and create a scalable prototype platform for future applications in finance.
 
 ## Project Structure
-
-
-  
-
+investment-memo-assistant/
+├── data/                    
+│   └── TSLA_10k.html          
+├── src/                    
+│   ├── __init__.py         
+│   ├── config.py        
+│   ├── data_preprocessing.py 
+│   ├── embedding_generation.py 
+│   ├── vector_db.py          
+│   ├── qa_system.py          
+│   └── app.py               
+├── docs/                     
+│   └── project_overview.md   
+├── tests/                    
+│   └── test_preprocessing.py 
+├── .gitignore                
+├── requirements.txt          
+└── README.md                 
