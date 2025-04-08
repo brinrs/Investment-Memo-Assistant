@@ -12,4 +12,9 @@
 ## [2025-04-04]
 
 - Improve text preprocessing by adding regex-based cleaning 
-- 
+
+## [2025-04-07]
+
+- Refine text cleaning and chunking in data_preprocessing.py
+- Implement and test embedding generation in embedding_generation.py using SentenceTransformer
+- Integrate FAISS-based vector search in vector_db.py
